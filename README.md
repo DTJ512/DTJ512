@@ -65,5 +65,5 @@ Building AI-driven automation and decision-support systems for real business wor
 
 ## Contact
 
-- 🌐 Website / Portfolio: https://your-website.com
+- 🌐 Website / Portfolio: https://dtj512.github.io/portfolio/
 - 🔗 LinkedIn: https://www.linkedin.com/in/dtd512/
