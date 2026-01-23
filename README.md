@@ -44,16 +44,6 @@ Building AI-driven automation and decision-support systems for real business wor
 
 ---
 
-## Selected Work
-
-- AI-driven ads budget optimization system deployed across **13+ teams**.
-- AI-powered call evaluation and coaching system reducing manual QA dependency by **~95%**.
-- Real-time business analytics chatbot with **AI-generated insights and action recommendations**.
-- Automated reporting systems delivering **image-based data tables and AI insights** directly to team channels.
-- Recruitment AI chatbot integrated with messaging platforms and backend data systems.
-
----
-
 ## How I Work
 
 - Build AI solutions with **end-to-end ownership**, from problem definition to production deployment.
