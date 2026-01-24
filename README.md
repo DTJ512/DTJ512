@@ -23,36 +23,6 @@ Building AI-driven automation and decision-support systems for real business wor
 
 ---
 
-## Tech Stack
-
-**AI & LLMs**
-- OpenAI GPT (latest generation)
-- Google Gemini
-- MCP Architecture, RAG
-
-**Backend & Automation**
-- Python (FastAPI, Flask)
-- n8n, Google Apps Script
-- Webhooks, API-based integrations
-
-**Databases & Data Systems**
-- PostgreSQL, SQLite, BigQuery
-- MongoDB, NocoDB
-
-**Frontend**
-- React.js
-
----
-
-## How I Work
-
-- Build AI solutions with **end-to-end ownership**, from problem definition to production deployment.
-- Emphasize **practical impact and automation** over experimental or research-only AI use cases.
-- Collaborate closely with Business, QA, and Operations teams to deliver usable, decision-ready systems.
-- Design systems with **maintainability and observability** in mind for long-term operation.
-
----
-
 ## Contact
 
 - 🌐 Website / Portfolio: https://dtj512.github.io/portfolio/
